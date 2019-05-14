@@ -9,4 +9,4 @@ Progetto sviluppato in collaborazione con la collega Mariella Bonomo per l'inseg
 
 Documentazione:
 * http://alessiolombardo.altervista.org/light-pen-rgb.html
-* https://github.com/alessiolombardo/multisensory/wiki
+* https://github.com/alessiolombardo/light-pen-rgb/wiki

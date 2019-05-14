@@ -1,0 +1,29 @@
+.chart-symbol { /* solid circle */
+	-fx-padding: 15px 15px 15px 15px;
+}
+
+.default-color0.chart-symbol {
+	-fx-background-color: #0000ff;
+	-fx-shape: "M 20 20  v24 h 10  v-24   Z";
+}
+
+.default-color1.chart-symbol {
+	-fx-background-color: #00ff00;
+	-fx-padding: 20px 20px 20px 20px;
+	-fx-shape: "M0,1 L1,0 L2,1 L1,2 Z";
+}
+
+.default-color2.chart-symbol {
+	-fx-background-color: #ff0000;
+	-fx-shape: "M 0,1 L1,0 L3,0 L3,1 L1,1 Z";
+}
+
+.default-color3.chart-symbol {
+	-fx-background-color: #ffff00;
+	-fx-shape: "M 50,30  m 0,25  a 1,1 0 0,0 0,-50  a 1,1 0 1,0 0,50";
+}
+
+.default-color4.chart-symbol {
+	-fx-background-color: #ff00ff;
+	-fx-shape: "M 0,1 L1,0 L2,0 L3,1 L2,2 L1,2 Z";
+}
